@@ -1,0 +1,49 @@
+# Android Studio
+*.iml
+/app/build
+/.idea
+/.gradle
+.navigation
+captures/
+build/
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+#NDK
+obj/
+.externalNativeBuild
+
+# Other Custom Files
+/app/google-services.json
+
+# Android Studio Auto-Generated
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.cxx
